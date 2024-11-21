@@ -3,7 +3,7 @@ body{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-image: url('/img/background.jpg');
+    background-image: url('./img/background.jpg');
     /*background-color: rgb(255, 255, 255); */
     background-repeat: no-repeat;
     background-position: center;
@@ -13,7 +13,7 @@ body{
 
 @font-face {
     font-family: logo;
-    src: url('/fonts/5thgradecursive-2.ttf')
+    src: url('./fonts/5thgradecursive-2.ttf')
   }
 
 .logo{
